@@ -1,4 +1,4 @@
-# Fine-Tuned_but_Zero-Shot_3D_Shape_Sketch_View_Similarity_and_Retrieval
+# ZS-SBSR
 
 This is the official repository for "Fine-Tuned_but_Zero-Shot_3D_Shape_Sketch_View_Similarity_and_Retrieval", SHARP ICCVW 2023:
 https://arxiv.org/abs/2306.08541.
